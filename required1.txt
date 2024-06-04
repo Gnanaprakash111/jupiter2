@@ -1,0 +1,24 @@
+Owner avatar jupiter2 Public Gnanaprakash111/jupiter2
+Go to file
+t
+Add file
+Folders and files
+Name		
+Latest commit
+author
+nanimuni
+to give gitb structure
+80459d6
+ · 
+2 hours ago
+History
+kfc
+to give gitb structure
+2 hours ago
+nani.xml
+to give gitb structure
+2 hours ago
+Repository files navigation
+README
+Add a README
+Help people interested in this repository understand your project by adding a README.
